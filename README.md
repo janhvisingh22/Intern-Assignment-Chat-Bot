@@ -1,14 +1,14 @@
-🤖 AI Question & Answering Bot
+AI Question & Answering Bot
 A simple web application built for an internship assignment to demonstrate effort, resourcefulness, and the ability to build a small AI-powered tool. This app uses the Hugging Face Inference API to answer questions based on a user-provided context.
 
-✨ Features
+Features
 Interactive UI: A clean and simple user interface built with Streamlit.
 
 AI-Powered Q&A: Leverages the deepset/roberta-base-squad2 model from the Hugging Face Hub to perform extractive question-answering.
 
 Secure API Key Handling: Manages the Hugging Face API token securely using environment variables and a .env file, which is kept private via .gitignore.
 
-🛠️ Tech Stack
+Tech Stack
 Language: Python 3
 
 Framework: Streamlit
@@ -17,7 +17,7 @@ API: Hugging Face Inference API
 
 Libraries: requests, python-dotenv
 
-🚀 Getting Started
+Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 Prerequisites
